@@ -1,6 +1,7 @@
 __pycache__/
 .ipynb_checkpoints/
 .venv/
-*.twbx
 *.hyper
 .DS_Store
+*.twbr
+~*.twb*
