@@ -107,7 +107,7 @@ derived indicator columns exported to `outputs/dashboard_exports/`.
 
 ---
 
-## Makati–Taguig Geographic Boundary Limitation
+## Makati–Taguig Geographic Boundary Limitation and Sensitivity Analysis
 
 Makati and Taguig require additional interpretation because an administrative
 boundary change occurred during the study period. In the third quarter of 2023,
